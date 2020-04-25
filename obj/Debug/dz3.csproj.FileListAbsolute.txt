@@ -1,0 +1,6 @@
+D:\мсзі\dz3\dz3\bin\Debug\dz3.exe.config
+D:\мсзі\dz3\dz3\bin\Debug\dz3.exe
+D:\мсзі\dz3\dz3\bin\Debug\dz3.pdb
+D:\мсзі\dz3\dz3\obj\Debug\dz3.csprojResolveAssemblyReference.cache
+D:\мсзі\dz3\dz3\obj\Debug\dz3.exe
+D:\мсзі\dz3\dz3\obj\Debug\dz3.pdb
