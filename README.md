@@ -1,5 +1,16 @@
-# dz3
+dz3
+====
+Main classes
+----
+Unit
+----
+Individ class
 
-Unit - individ class;
-Tools - utilites needed for algorithm;
-Program - main program class
+Tools
+-----
+
+Utilites needed for algorithm
+
+Program
+----
+Main program class
