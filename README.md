@@ -1,9 +1,16 @@
 dz3
 ====
-#Main classes
-##Unit
+Main classes
+----
+Unit
+----
 Individ class
-##Tools
+
+Tools
+-----
+
 Utilites needed for algorithm
-##Program 
+
+Program
+----
 Main program class
