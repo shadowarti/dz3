@@ -1,5 +1,8 @@
 # dz3
-
-Unit - individ class;
-Tools - utilites needed for algorithm;
-Program - main program class
+#Main classes
+##Unit
+Individ class
+##Tools
+Utilites needed for algorithm
+##Program 
+Main program class
